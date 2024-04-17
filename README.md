@@ -23,8 +23,8 @@ The CIFAR10 classifier can be found at:
 
 ---
 
-![Perm MNIST](/results/perm_mnist/plot.jpg "Perm MNIST")
+![Perm MNIST](/results/perm_mnist/plot.png "Perm MNIST")
 
-![Single-head Split MNIST](/results/split_mnist/plot.jpg "Single-head Split MNIST")
+![Single-head Split MNIST](/results/split_mnist/plot.png "Single-head Split MNIST")
 
-![Single-head CIFAR10](/results/cifar10/plot.jpg "Single-head CIFAR10")
+![Single-head CIFAR10](/results/cifar10/plot.png "Single-head CIFAR10")
